@@ -6,7 +6,7 @@ function add(num1, num2) {
 // main function
 function main() {
   // get the arguments passed through command line
-  const numbers = process.argv.slice(2);
+  const numbers = process.argv.slice(3);
 
   // check if both numbers are passed
   if (numbers.length !== 2) {
