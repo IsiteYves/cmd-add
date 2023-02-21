@@ -1,11 +1,9 @@
 {
   "name": "adderd",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "Now you can read documentation about how to use this simple package",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
