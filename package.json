@@ -1,6 +1,6 @@
 {
   "name": "cmd-add",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simply add 2 numbers through cmd",
   "main": "index.js",
   "bin": {
