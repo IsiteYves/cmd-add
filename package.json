@@ -1,9 +1,19 @@
 {
   "name": "cmd-add",
-  "version": "1.0.3",
-  "description": "Now you can read documentation about how to use this simple package",
+  "version": "1.0.4",
+  "description": "Simply add 2 numbers through cmd",
   "main": "index.js",
-  "scripts": {},
+  "bin": {
+    "cmd-add": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsiteYves/cmd-add.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "pub": "npm version major & npm publish"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
