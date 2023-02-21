@@ -12,13 +12,13 @@ cmd-add can be used on the command line by passing in two numbers as CLI paramet
 
 ### Syntax
 
-`$ cmd-add [number1] [number2]
+`cmd-add [number1] [number2]`
 
 ### Examples
 
-`$ cmd-add 12 7` prints `19`
+`cmd-add 12 7` prints `19`
 
-`$ cmd-add 9 25` prints `34`
+`cmd-add 9 25` prints `34`
 
 ## Disclaimer
 
